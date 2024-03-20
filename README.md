@@ -4,3 +4,5 @@ this directory contains a technical test as per directed by teach2give it compri
 3.power of two
 4.capitalize words
 5.count vowels
+
+The coding language in use for this project is python
